@@ -1,2 +1,3 @@
-# droneit.cf
-This is a repository created under Andy Chang Team("ACT"). ACT have the right to make annotation to this repository.
+About Drone IT!
+---
+Drone IT! is a future application created by Alfie Andrus. First introduced in the Dream Invader Chapter 3. Learn more about the Drone IT! application today!
